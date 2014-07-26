@@ -1,0 +1,2 @@
+NewDeviceSetup :: Android Tablet
+====================

@@ -1,0 +1,3 @@
+NewDeviceSetup :: Android Phone
+====================
+
