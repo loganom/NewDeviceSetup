@@ -51,6 +51,7 @@ The goal of this repository is to serve a community curated list of different ap
         - >=v2.0.0
     - [More Information](https://github.com/philosowaffle/NewDeviceSetup/tree/master/iPhone/MyAwesomeApp) <- assuming you created this directory and there is a readme in there with more information
 ```
+[Better Example](https://github.com/philosowaffle/NewDeviceSetup/blob/master/Mac/README.md)
 
 ## Helpful Tools
 
