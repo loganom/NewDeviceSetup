@@ -17,5 +17,5 @@ Plugins
     - A must have, makes all sorts of useful and needed file commands available that Sublime does not support by default.
 
 **Themes**
-- [Wombat](https://sublime.wbond.net/packages/Wombat%20Theme)
-    - [Example Config]()
+- **[Wombat](https://sublime.wbond.net/packages/Wombat%20Theme)**
+    - [Example Config](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Mac/SublimeText%203/Wombat)
