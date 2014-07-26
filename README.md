@@ -37,6 +37,7 @@ The goal of this repository is to serve a community curated list of different ap
 - Include links to the providers.
 - Include a brief description and pitch for why this app deserves to be an essential.
 - If you wish to include more detailed information about an app (such as configuration info, usage, or plugins) then create a new folder with the title of the app and put your content in the README in there.  You can then link to this README in the `More Info` section of the main list.
+- Keep things in alphabetical order.
 
 ### Content Example
 
