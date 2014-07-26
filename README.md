@@ -19,7 +19,7 @@ The goal of this repository is to serve a community curated list of different ap
 
 ## Contributing
 
-- Create and issue [here](https://github.com/philosowaffle/NewDeviceSetup/issues)
+- Create and issue [here](https://github.com/philosowaffle/NewDeviceSetup/issues), or choose one that has already been reported.
     - Assign the issue to yourself to show that you are working on it
     - Assign the issue to the 1.0.0 Milestone
     - Mark the issue appropriately
