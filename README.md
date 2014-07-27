@@ -12,6 +12,7 @@ The goal of this repository is to serve a community curated list of different ap
 - [iPad](https://github.com/philosowaffle/NewDeviceSetup/tree/master/iPad)
 - [iPhone](https://github.com/philosowaffle/NewDeviceSetup/tree/master/iPhone)
 - [Kindle](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Kindle)
+- [Linux](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Linux)
 - [Mac](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Mac)
 - [Windows PC](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Windows)
 - [Windows Phone](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Windows%20Phone)
