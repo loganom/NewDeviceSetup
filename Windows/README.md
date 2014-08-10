@@ -80,7 +80,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 **[CCleaner](http://www.piriform.com/ccleaner)**
 
-<img src="http://static.avast.com/9/web/i/avast-antivirus-logo.jpg" width="80px" height="80px"/>
+<img src="https://lh6.ggpht.com/1uP34Naqah1KernqdkYAiyWAnYkDUKGn6PBuwdpFhxUu3QYdPkT2E0zR1S8SCtAd-L4=w300" width="80px" height="80px"/>
 
 - *Description* - "CCleaner is the number-one tool for cleaning your Windows PC. It protects your privacy online and makes your computer faster and more secure. Easy to use and a small, fast download."  Even with the default settings it is great.  Set it up on a schedule to only run when you reboot your PC that way it runs regularly and keeps everything clean. For more information about settings look [here](https://www.piriform.com/docs/ccleaner/ccleaner-settings);
 
