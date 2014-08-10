@@ -10,7 +10,8 @@ Import Bookmarks
     - `CTRL-V`
     - Now save the file as `somefilename.html`
 
-- Go to `Bookmarks > Bookmark Manager`
+
+- In Chrome, go to `Bookmarks > Bookmark Manager`
 - Click the `Organize` drop down
 - Choose `Import Bookmarks from HTML file`
 - Import the Bookmark files you want.
