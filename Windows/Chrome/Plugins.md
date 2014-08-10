@@ -29,3 +29,4 @@ Plugins
 - **[Yet Another Drag and Go](https://chrome.google.com/webstore/detail/yet-another-drag-and-go/hnoonkgmmnklbdehoepdjcidhjbncjmi)**
     - Drag and search.
     - **Highly Recommended**
+

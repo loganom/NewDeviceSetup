@@ -1,6 +1,7 @@
 NewDeviceSetup :: Windows PC
 ==================
 
+<<<<<<< HEAD
 A good place to check for even more windows applications and more detailed descriptions is [Lifehackers Pack for Windows](http://lifehacker.com/lifehacker-pack-for-windows-our-list-of-the-best-windo-787533613).
 
 Most of these programs can be downloaded quickly and collectively at [Ninite](https://ninite.com/), simply select the programs you wish to install and Ninite will download, install them, and keep them up to date.
@@ -13,6 +14,7 @@ Most of these programs can be downloaded quickly and collectively at [Ninite](ht
 - [PDF](#pdf)
 - [Utilities](#utilities)
 - [Video](#video)
+
 
 ## Browsers
 
@@ -102,3 +104,4 @@ You'll love the slick user interface, extraordinary features and amazing perform
 <img src="http://www.7-zip.org/7ziplogo.png" width="80px" height="80px"/>
 
 - *Description* - Useful for zipping/unzipping a wide variety of file formats.
+
