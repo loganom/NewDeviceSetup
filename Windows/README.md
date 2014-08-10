@@ -1,7 +1,6 @@
 NewDeviceSetup :: Windows PC
 ==================
 
-<<<<<<< HEAD
 A good place to check for even more windows applications and more detailed descriptions is [Lifehackers Pack for Windows](http://lifehacker.com/lifehacker-pack-for-windows-our-list-of-the-best-windo-787533613).
 
 Most of these programs can be downloaded quickly and collectively at [Ninite](https://ninite.com/), simply select the programs you wish to install and Ninite will download, install them, and keep them up to date.
