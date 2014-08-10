@@ -58,7 +58,7 @@ Most of these programs can be downloaded quickly and collectively at [Ninite](ht
 
 - *Description* - "Sublime Text is a sophisticated text editor for code, markup and prose.
 You'll love the slick user interface, extraordinary features and amazing performance." --from site
-- [More Information](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Mac/SublimeText%203)
+- [More Information](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Windows/SublimeText%203)
 
 ## PDF
 
