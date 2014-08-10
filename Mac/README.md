@@ -1,6 +1,13 @@
 NewDeviceSetup :: Mac
 ==============
 
+## Contents
+
+- [Browsers](#browsers)
+- [Editors](#editors)
+- [Music](#music)
+- [PDF](#pdf)
+
 ## Browsers
 
 **[Chrome](https://www.google.com/intl/en_us/chrome/browser/)**
@@ -10,7 +17,7 @@ NewDeviceSetup :: Mac
 - *Description* - "One browser for you computer, phone, and tablet." -- from site
 - [More Information](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Mac/Chrome)
 
-## Text Editors
+## Editors
 
 **[SublimeText 3](http://www.sublimetext.com/)**
 
@@ -19,3 +26,26 @@ NewDeviceSetup :: Mac
 - *Description* - "Sublime Text is a sophisticated text editor for code, markup and prose.
 You'll love the slick user interface, extraordinary features and amazing performance." --from site
 - [More Information](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Mac/SublimeText%203)
+
+## Music
+
+**[iTunes](https://www.apple.com/itunes/)**
+
+<img src="http://www.technobuffalo.com/wp-content/uploads/2012/11/itunes_image2.png" width="80px" height="80px"/>
+
+- *Description* - Music management.
+
+
+**[Spotify](https://www.spotify.com/us/)**
+
+<img src="https://lh4.ggpht.com/NjSeU8ya6h8cNL6JntWZqhlkmAHKcy0vJmxDBqF0x_y4izs6skpxg6a4TRsf3Jza7kk=w300" width="80px" height="80px"/>
+
+- *Description* - Streaming music service.
+
+## PDF
+
+**[SumatraPDF](http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html)**
+
+<img src="http://screenshots.en.sftcdn.net/en/scrn/60000/60399/sumatra-pdf-03-538x535.png" width="80px" height="80px"/>
+
+- *Description* - "The first time you go to open a PDF on a new Windows machine, you may be greeted with that ever-familiar prompt to install Adobe Reader. Don't do it! Unless compatibility issues force you into using Adobe's reader, you'd be much happier with something fast, light, and simple, like the awesome (and free) SumatraPDF." - *lifehacker*
