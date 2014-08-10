@@ -17,13 +17,13 @@ Plugins
 - **[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en)**
     - Easily measure anything on the page.
 - **[Screen Capture](https://chrome.google.com/webstore/detail/screen-capture-by-google/cpngackimfmofbokmjmljamhdncknpmg?hl=en)**
+    - Screen shot all or portions of a web page.
 - **[Subscriptions Grid for YouTube](https://chrome.google.com/webstore/detail/subscriptions-grid-for-yo/dcnjhgnfnmijfkmcddcmffeamphmmeed)**
     - "Transforms the Youtube feed subscriptions page in to a much nicer grid layout, as well as re-instating the functionality to mark or hide videos you've already watched."
 - **[Simple = Select + Search](https://chrome.google.com/webstore/detail/simple-select-%20-search/aagminaekdpcfimcbhknlgjmpnnnmooo)**
     - "It's simple: select some text, right click, and search on your preferred search engines."
 - **[Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb)**
     - "A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality inspired by IntelliJ IDEA"
-    - Screen shot all or portions of a web page.
 - **[WOT](https://chrome.google.com/webstore/detail/wot/bhmmomiinigofkjcapegjjndpbikblnp?hl=en)**
     - WOT helps you know if a website is trustworthy or not.
 - **[Yet Another Drag and Go](https://chrome.google.com/webstore/detail/yet-another-drag-and-go/hnoonkgmmnklbdehoepdjcidhjbncjmi)**
