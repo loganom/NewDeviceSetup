@@ -19,3 +19,5 @@ Plugins
 **Themes**
 - **[Wombat](https://sublime.wbond.net/packages/Wombat%20Theme)**
     - [Example Config](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Mac/SublimeText%203/Wombat)
+- **[Flatland](https://sublime.wbond.net/packages/Theme%20-%20Flatland)**
+    - [Example Config](https://github.com/philosowaffle/NewDeviceSetup/tree/master/Windows/SublimeText%203/Flatland)
