@@ -1,0 +1,17 @@
+# if you are running cygwin, add this code to your bashrc, bash_aliases to enable google search from there too.
+
+# search google
+# opens a new tab and performs a google search
+# use quotes around whole query if your search contains special characters
+# usage: gsrch "it's a trap!"
+alias gsrch=googleSearch
+function googleSearch {
+  ENGINE='https://www.google.com/search?q='
+  query=''
+  space='+'
+  for var in $*
+  do
+   query=$query$space$var
+  done
+  cygstart chrome $ENGINE$query
+}
