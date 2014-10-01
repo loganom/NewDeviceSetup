@@ -1,5 +1,10 @@
 # cd directory and list all contents with long listing human readable format
-alias cdl='cd $1; ls -hal'
+alias cdl=changeAndList
+function changeAndList {
+  cd $1
+  ls -hal
+  export MPWD=$1
+}
 
 # list -human readable - all - long format - sorted by time - reverse chronological
 alias haltr='ls -haltr'
@@ -21,6 +26,5 @@ function goBack {
     P=$P/..
   done
   cd $P
- # export MPWD=$P
   export MPWD=$P
 }
