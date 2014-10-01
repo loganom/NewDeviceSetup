@@ -28,3 +28,14 @@ function goBack {
   cd $P
   export MPWD=$P
 }
+
+# open chrome
+alias chrome='google-chrome https://www.google.com'
+
+# search google
+# opens a new tab and performs a google search
+alias gsrch=googleSearch
+function googleSearch {
+  ENGINE='https://www.google.com/search?q='
+  google-chrome $ENGINE$1
+}
