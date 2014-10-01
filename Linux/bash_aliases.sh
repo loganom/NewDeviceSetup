@@ -45,6 +45,7 @@ function googleSearch {
   do
    query=$query$space$var
   done
-  google-chrome $ENGINE$query
+  # add cygstart to the begining of the command if using cygwin
+  chrome $ENGINE$query
 }
 
