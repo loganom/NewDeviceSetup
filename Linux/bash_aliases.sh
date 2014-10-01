@@ -34,8 +34,17 @@ alias chrome='google-chrome https://www.google.com'
 
 # search google
 # opens a new tab and performs a google search
+# use quotes around whole query if your search contains special characters
+# usage: gsrch "it's a trap!"
 alias gsrch=googleSearch
 function googleSearch {
   ENGINE='https://www.google.com/search?q='
-  google-chrome $ENGINE$1
+  query=''
+  space='+'
+  for var in $*
+  do
+   query=$query$space$var
+  done
+  google-chrome $ENGINE$query
 }
+
